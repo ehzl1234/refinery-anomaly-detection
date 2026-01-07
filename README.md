@@ -6,6 +6,14 @@ Real-time anomaly detection system for refinery equipment monitoring using machi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard.png" alt="Anomaly Detection Dashboard" width="700">
+</p>
+
+*Real-time monitoring dashboard with sensor gauges, trend analysis, and anomaly alerts.*
+
 ## 🎯 Problem Statement
 
 Refinery equipment failures can cost millions in unplanned downtime. This project demonstrates using **Isolation Forest** algorithm to detect anomalies in sensor data streams:
